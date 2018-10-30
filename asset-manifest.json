@@ -1,0 +1,14 @@
+{
+  "main.css": "/deploygp/static/css/main.b7bab088.chunk.css",
+  "main.js": "/deploygp/static/js/main.c9bc6044.chunk.js",
+  "main.js.map": "/deploygp/static/js/main.c9bc6044.chunk.js.map",
+  "static/js/1.a700ff87.chunk.js": "/deploygp/static/js/1.a700ff87.chunk.js",
+  "static/js/1.a700ff87.chunk.js.map": "/deploygp/static/js/1.a700ff87.chunk.js.map",
+  "runtime~main.js": "/deploygp/static/js/runtime~main.cce5f68f.js",
+  "runtime~main.js.map": "/deploygp/static/js/runtime~main.cce5f68f.js.map",
+  "static/media/logo.svg": "/deploygp/static/media/logo.5d5d9eef.svg",
+  "static/css/main.b7bab088.chunk.css.map": "/deploygp/static/css/main.b7bab088.chunk.css.map",
+  "index.html": "/deploygp/index.html",
+  "precache-manifest.0c30875be7cfb2b757812357c398102b.js": "/deploygp/precache-manifest.0c30875be7cfb2b757812357c398102b.js",
+  "service-worker.js": "/deploygp/service-worker.js"
+}
